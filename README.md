@@ -6,4 +6,4 @@ Google Colab notebook to transfer files from Mega To Clone Multicloud
 1. Click on the "Open in Colab"
 
 
-![](https://i.imgur.com/Y80SpfK.jpg)
+![](https://imgur.com/dJzSVHy.jpg)
